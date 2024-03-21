@@ -1,3 +1,3 @@
 def say():
-    print("hello")
+    print("hello my name is seo kang chan")
 say()
